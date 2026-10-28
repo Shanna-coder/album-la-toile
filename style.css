@@ -1,7 +1,14 @@
+header{ background-color: #090907;
+    ul{justify-content: space-around;
+        list-style-type: none;
+        display: flex;
+    li{a 
+    {text-decoration: none;
+    color: rgb(47, 116, 82);
+    }}}}
+
+
 body{
     background-color: rgb(47, 116, 82);
 font-family: Arial, Helvetica, sans-serif;
-
-
-
 }
